@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2021-10-27T11:05:50.917732537Z"
+entries:
+  blog:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-27T11:09:30.717812694Z"
+    description: A Helm chart for Kubernetes
+    digest: 162436550b6fde4be7377eef39ed97ddba7e5f359bce043a97b1f117e51a9ad7
+    name: blog
+    type: application
+    urls:
+    - repo/blog-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-27T11:09:30.716608152Z"
